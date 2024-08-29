@@ -26,6 +26,10 @@
 
 ###
 
+<h2 align="left">Social</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-costa-germano-2064712b4/?original_referer=&originalSubdomain=br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
